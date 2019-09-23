@@ -1,6 +1,7 @@
 package cn.sz.lwt;
 
 public class Myself {
-	//first 
-	
+
+	//first commit
+	//two commit
 }
